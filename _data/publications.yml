@@ -33,7 +33,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671491
     code: https://github.com/
     notes: Conference Article
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/sea_ice.png
 
   - title: "Satellite Formaldehyde to Support Model Evaluation"
     authors: Monica Harkey, Tracey Holloway, <strong>Eliot Kim</strong>, Kirk R. Baker, Barron Henderson
