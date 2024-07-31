@@ -4,11 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a first-year Ph.D. student at University of Washington Department of Atmospheric Sciences. I'm part of Prof. Alex Turner's research group.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
