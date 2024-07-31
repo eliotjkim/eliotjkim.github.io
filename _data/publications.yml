@@ -6,7 +6,7 @@ main:
     conference: Journal of Geophysical Research Atmospheres, 2024.
     pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/200095/preprint_pdf/440f97afc674bd923293c57b2e95539c.pdf
     notes: Accepted
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/qno2.png
 
   - title: "Predicting September Arctic Sea Ice: A Multi-Model Seasonal Skill Comparison"
     authors: Mitchell Bushuk et al.
@@ -15,7 +15,7 @@ main:
     pdf: https://journals.ametsoc.org/downloadpdf/view/journals/bams/105/7/BAMS-D-23-0163.1.pdf
     code: https://github.com/ai2es/miles-guess
     notes: Journal Article
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/bushuk.png
   
   - title: "Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications"
     authors: John S. Schreck, David John Gagne II, Charlie Becker, William E. Chapman, Kim Elmore, Da Fan, Gabrielle Gantos, <strong>Eliot Kim</strong>, Dhamma Kimpara, Thomas Martin, Maria J. Molina, Vanessa M. Pryzbylo, Jacob Radford, Belen Saavedra, Justin Willson, Christopher Wirz
@@ -24,7 +24,7 @@ main:
     pdf: https://arxiv.org/pdf/2309.13207
     code: https://github.com/ai2es/miles-guess
     notes: Under Review
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/evidential.png
 
   - title: "Multi-Task Deep Learning Based Spatiotemporal Arctic Sea Ice Forecasting"
     authors: <strong>Eliot Kim*</strong>, Peter Kruse*, Skylar Lama, Jamal Bourne Jr., Michael Hu, Sahara Ali, Yiyi Huang, Jianwu Wang 
