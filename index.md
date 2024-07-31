@@ -17,5 +17,3 @@ Previously, I spent a year at NASA Goddard Space Flight Center's Global Modeling
 - **[Jul. 2024]** Our paper about regression-based 1km res surface NO$`_2`$ was accepted in JGR: Atmospheres!
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
