@@ -2,13 +2,9 @@ main:
 
   - title: Satellite Formaldehyde to Support Model Evaluation
     authors: Monica Harkey, Tracey Holloway, <strong>Eliot Kim</strong>, Kirk R. Baker, Barron Henderson
-    conference_short:
     conference: Journal of Geophysical Research: Atmospheres.
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020JD032881
     code: https://github.com
-    bibtex: 
-    image: 
-    notes:
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
