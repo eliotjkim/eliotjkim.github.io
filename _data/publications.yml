@@ -5,7 +5,7 @@ main:
     conference_short: Preprint
     conference: arXiv, 2023.
     pdf: https://arxiv.org/pdf/2309.13207
-    code: https://github.com/
+    code: https://github.com/ai2es/miles-guess
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
