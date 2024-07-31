@@ -1,14 +1,14 @@
 main:
 
-  - title: "Satellite Formaldehyde to Support Model Evaluation"
-    authors: Monica Harkey, Tracey Holloway, <strong>Eliot Kim</strong>, Kirk R. Baker, Barron Henderson
-    conference_short: CVPR
-    conference: Journal of Geophysical Research Atmospheres, 2020.
-    pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020JD032881
+  - title: "Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications"
+    authors: John S. Schreck, David John Gagne II, Charlie Becker, William E. Chapman, Kim Elmore, Da Fan, Gabrielle Gantos, <strong>Eliot Kim</strong>, Dhamma Kimpara, Thomas Martin, Maria J. Molina, Vanessa M. Pryzbylo, Jacob Radford, Belen Saavedra, Justin Willson, Christopher Wirz
+    conference_short: Preprint
+    conference: arXiv, 2023.
+    pdf: https://arxiv.org/pdf/2309.13207
     code: https://github.com/
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: Under Review
     image: ./assets/img/teaser_example.png
 
   - title: "Multi-Task Deep Learning Based Spatiotemporal Arctic Sea Ice Forecasting"
@@ -19,5 +19,16 @@ main:
     code: https://github.com/
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: Conference Article
+    image: ./assets/img/teaser_example.png
+
+  - title: "Satellite Formaldehyde to Support Model Evaluation"
+    authors: Monica Harkey, Tracey Holloway, <strong>Eliot Kim</strong>, Kirk R. Baker, Barron Henderson
+    conference_short: JGR: Atmos
+    conference: Journal of Geophysical Research Atmospheres, 2020.
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020JD032881
+    code: https://github.com/
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Journal Article
     image: ./assets/img/teaser_example.png
