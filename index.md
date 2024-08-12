@@ -10,7 +10,7 @@ Previously, I spent a year at NASA Goddard Space Flight Center's Global Modeling
 
 ## Research Interests
 
-- **Physics-based Machine Learning for Earth System Modeling
+- **Physics-based Machine Learning for Earth System Modeling**
 - **Atmospheric Chemistry Modeling**
 - **Data Accessibility and Model Explainability**
 
