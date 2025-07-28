@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: About
-permalink: /about/
+title: Recipes
+permalink: /recipes/
 ---
 
 # About
