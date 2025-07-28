@@ -1,10 +1,10 @@
 .navbar {
-  width: 100%;
+  width: 60%;
   position: fixed;
   top: 0;
   left: 0;
   z-index: 1000;
-  background-color: #9089f4; /* Match section title color */
+  background-color: #b5b0fb; /* Match section title color */
   color: #fff;
   box-shadow: 0 2px 4px rgba(0,0,0,0.04);
 }
