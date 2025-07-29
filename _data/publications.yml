@@ -5,7 +5,7 @@ main:
     conference_short: JGR Atmos
     conference: Journal of Geophysical Research Atmospheres, 2024.
     pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/200095/preprint_pdf/440f97afc674bd923293c57b2e95539c.pdf
-    notes: Accepted
+    notes: Journal Article
     image: ./assets/img/qno2.png
 
   - title: "Predicting September Arctic Sea Ice: A Multi-Model Seasonal Skill Comparison"
