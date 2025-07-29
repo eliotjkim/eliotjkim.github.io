@@ -14,10 +14,5 @@ Previously, I spent a year at **NASA Goddard Space Flight Center's** [Global Mod
 - **Atmospheric chemistry modeling**
 - **Explainable AI**
 - **Data accessibility**
-- 
-<!-- 
-## News
-
-- **[Jul. 2024]** Our paper about regression-based 1km res surface NO2 was accepted in JGR: Atmospheres! -->
 
 {% include_relative _includes/publications.md %}
