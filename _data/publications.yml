@@ -10,7 +10,7 @@ main:
     authors: <strong>Eliot Kim</strong>, Tracey Holloway, Ajinkya Kokandakar, Monica Harkey, Stephanie Elkins, Daniel Goldberg, Colleen Heck
     conference_short: JGR Atmos
     conference: Journal of Geophysical Research Atmospheres, 2024.
-    pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/200095/preprint_pdf/440f97afc674bd923293c57b2e95539c.pdf
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024JD040906
     notes: Journal Article
     image: ./assets/img/qno2.png
 
@@ -19,7 +19,6 @@ main:
     conference_short: BAMS
     conference: Bulletin of the American Meteorological Society, 2024.
     pdf: https://journals.ametsoc.org/downloadpdf/view/journals/bams/105/7/BAMS-D-23-0163.1.pdf
-    code: https://github.com/ai2es/miles-guess
     notes: Journal Article
     image: ./assets/img/bushuk.png
   
@@ -37,7 +36,7 @@ main:
     conference_short: Big Data
     conference: IEEE International Conference on Big Data, 2021.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671491
-    code: https://github.com/
+    code: https://github.com/big-data-lab-umbc/big-data-reu/tree/main/2021-projects/team-1
     notes: Conference Article
     image: ./assets/img/sea_ice.png
 
@@ -46,6 +45,5 @@ main:
     conference_short: JGR Atmos
     conference: Journal of Geophysical Research Atmospheres, 2020.
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020JD032881
-    code: https://github.com/
     notes: Journal Article
     image: ./assets/img/formaldehyde.png
