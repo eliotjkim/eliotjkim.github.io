@@ -1,5 +1,13 @@
 main:
 
+  - title: "Machine Learning-Based Operator for Chemical Data Assimilation in the NASA GEOS Modeling System"
+    authors: <strong>Eliot Kim</strong>, Christoph Keller, Julie Nicely, Peter Ivatt, Michael Long, Patrick Obin Sturm, Melanie Follette-Cook, Steven Pawson
+    conference_short: Submitted
+    conference: Submitted.
+    pdf: https://eliotjkim.github.io/
+    notes: Journal Article
+    image: ./assets/img/adj_emul.png
+
   - title: "A Comparison of Regression Methods for Inferring Near-Surface NO2 with Satellite Data"
     authors: <strong>Eliot Kim</strong>, Tracey Holloway, Ajinkya Kokandakar, Monica Harkey, Stephanie Elkins, Daniel Goldberg, Colleen Heck
     conference_short: JGR Atmos
@@ -19,11 +27,11 @@ main:
   
   - title: "Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications"
     authors: John S. Schreck, David John Gagne II, Charlie Becker, William E. Chapman, Kim Elmore, Da Fan, Gabrielle Gantos, <strong>Eliot Kim</strong>, Dhamma Kimpara, Thomas Martin, Maria J. Molina, Vanessa M. Pryzbylo, Jacob Radford, Belen Saavedra, Justin Willson, Christopher Wirz
-    conference_short: Preprint
-    conference: arXiv, 2023.
-    pdf: https://arxiv.org/pdf/2309.13207
+    conference_short: AIES
+    conference: Artificial Intelligence for the Earth Systems, 2024.
+    pdf: https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-23-0093.1/AIES-D-23-0093.1.pdf
     code: https://github.com/ai2es/miles-guess
-    notes: Under Review
+    notes: Journal Article
     image: ./assets/img/evidential.png
 
   - title: "Multi-Task Deep Learning Based Spatiotemporal Arctic Sea Ice Forecasting"
