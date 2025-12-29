@@ -1,7 +1,7 @@
 main:
 
-  - title: ""
-    authors:
+  - title: "Winter Precipitation Type Diagnosis and Uncertainty Quantification with a Physically Consistent Machine Learning Method"
+    authors: Charlie Becker, David John Gagne II, Julie Demuth, John S. Schreck, Jacob Radford, Gabrielle Gantos, <strong>Eliot Kim</strong>, Dhamma Kimpara, Sophia Reiner, Justin Willson, Christopher D. Wirz
     conference_short: Submitted
     notes: Submitted.
     image: ./assets/img/adj_emul.png
